@@ -98,6 +98,42 @@
       "id": "102",
       "name": "Store Owner"
     }
+  ], 
+  "cities": [
+    {
+      "id": "c10", 
+      "name": "Mukalla"
+    }, 
+    {
+      "id": "c11",
+      "name": "Aden"
+    }, 
+    {
+      "id": "c12",
+      "name": "Sana'a"
+    }, 
+    {
+      "id": "c13",
+      "name": "Taiz"
+    }
+  ], 
+  "regions": [
+    {
+      "id": "r10", 
+      "name": "Main Street"
+    }, 
+    {
+      "id": "r11",
+      "name": "DownTown"
+    }, 
+    {
+      "id": "r12",
+      "name": "2nd Street"
+    }, 
+    {
+      "id": "r13",
+      "name": "Green Mountain"
+    }
   ]
   
 }
