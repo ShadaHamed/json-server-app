@@ -196,15 +196,18 @@
     "categories": [
       {
         "id": "123",
-        "name": "Food"
+        "name": "Food", 
+        "image":"Food"
       },
       {
         "id": "133",
-        "name": "Drinks"
+        "name": "Drinks",
+        "image":"Drinks"
       },
       {
         "id": "153",
-        "name": "Snacks"
+        "name": "Snacks",
+        "image":"Snacks"
       }
     ], 
     "roles":[
