@@ -224,41 +224,165 @@
       "name": "Store Owner"
     }
   ], 
-  "cities": [
-    {
-      "id": "c10", 
-      "name": "Mukalla"
-    }, 
-    {
-      "id": "c11",
-      "name": "Aden"
-    }, 
-    {
-      "id": "c12",
-      "name": "Sana'a"
-    }, 
-    {
-      "id": "c13",
-      "name": "Taiz"
-    }
-  ], 
-  "regions": [
-    {
-      "id": "r10", 
-      "name": "Main Street"
-    }, 
-    {
-      "id": "r11",
-      "name": "DownTown"
-    }, 
-    {
-      "id": "r12",
-      "name": "2nd Street"
-    }, 
-    {
-      "id": "r13",
-      "name": "Green Mountain"
-    }
-  ]
+    "cities": [
+      {
+        "id": "1",
+        "name": {
+          "en": "Riyadh",
+          "ar": "الرياض"
+        }
+      },
+      {
+        "id": "2",
+        "name": {
+          "en": "Jeddah",
+          "ar": "جدة"
+        }
+      },
+      {
+        "id": "3",
+        "name": {
+          "en": "Dammam",
+          "ar": "الدمام"
+        }
+      },
+      {
+        "id": "4",
+        "name": {
+          "en": "Mecca",
+          "ar": "مكة"
+        }
+      },
+      {
+        "id": "5",
+        "name": {
+          "en": "Medina",
+          "ar": "المدينة"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "101",
+        "name": {
+          "en": "Al Olaya",
+          "ar": "العليا"
+        },
+        "cityID": "1"
+      },
+      {
+        "id": "102",
+        "name": {
+          "en": "Al Malaz",
+          "ar": "الملز"
+        },
+        "cityID": "1"
+      },
+      {
+        "id": "103",
+        "name": {
+          "en": "Diriyah",
+          "ar": "الدرعية"
+        },
+        "cityID": "1"
+      },
+      {
+        "id": "201",
+        "name": {
+          "en": "Al Balad",
+          "ar": "البلد"
+        },
+        "cityID": "2"
+      },
+      {
+        "id": "202",
+        "name": {
+          "en": "Al Salamah",
+          "ar": "السلامة"
+        },
+        "cityID": "2"
+      },
+      {
+        "id": "203",
+        "name": {
+          "en": "Al Hamra",
+          "ar": "الحمرا"
+        },
+        "cityID": "2"
+      },
+      {
+        "id": "301",
+        "name": {
+          "en": "Al Khobar",
+          "ar": "الخبر"
+        },
+        "cityID": "3"
+      },
+      {
+        "id": "302",
+        "name": {
+          "en": "Al Rakah",
+          "ar": "الراكه"
+        },
+        "cityID": "3"
+      },
+      {
+        "id": "303",
+        "name": {
+          "en": "Al Aziziyah",
+          "ar": "العزيزية"
+        },
+        "cityID": "3"
+      },
+      {
+        "id": "401",
+        "name": {
+          "en": "Ajyad",
+          "ar": "أجياد"
+        },
+        "cityID": "4"
+      },
+      {
+        "id": "402",
+        "name": {
+          "en": "Al Shubaikah",
+          "ar": "الشبيكة"
+        },
+        "cityID": "4"
+      },
+      {
+        "id": "403",
+        "name": {
+          "en": "Al Taneem",
+          "ar": "التنعيم"
+        },
+        "cityID": "4"
+      },
+      {
+        "id": "501",
+        "name": {
+          "en": "Soltana Street",
+          "ar": "شارع سلطانة"
+        },
+        "cityID": "5"
+      },
+      {
+        "id": "502",
+        "name": {
+          "en": "Quba",
+          "ar": "قباء"
+        },
+        "cityID": "5"
+      },
+      {
+        "id": "503",
+        "name": {
+          "en": "Bur Othman",
+          "ar": "بر عثمان"
+        },
+        "cityID": "5"
+      }
+    ]
+  
   
 }
