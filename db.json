@@ -197,17 +197,20 @@
       {
         "id": "123",
         "name": "Food", 
-        "image":"Food"
+        "image":"Food",
+        "status": "active"
       },
       {
         "id": "133",
         "name": "Drinks",
-        "image":"Drinks"
+        "image":"Drinks",
+        "status": "active"
       },
       {
         "id": "153",
         "name": "Snacks",
-        "image":"Snacks"
+        "image":"Snacks",
+        "status": "active"
       }
     ], 
     "roles":[
@@ -230,35 +233,40 @@
         "name": {
           "en": "Riyadh",
           "ar": "الرياض"
-        }
+        },
+        "status": "active"
       },
       {
         "id": "2",
         "name": {
           "en": "Jeddah",
           "ar": "جدة"
-        }
+        },
+        "status": "active"
       },
       {
         "id": "3",
         "name": {
           "en": "Dammam",
           "ar": "الدمام"
-        }
+        },
+        "status": "active"
       },
       {
         "id": "4",
         "name": {
           "en": "Mecca",
           "ar": "مكة"
-        }
+        },
+        "status": "active"
       },
       {
         "id": "5",
         "name": {
           "en": "Medina",
           "ar": "المدينة"
-        }
+        },
+        "status": "active"
       }
     ],
     "regions": [
@@ -268,7 +276,8 @@
           "en": "Al Olaya",
           "ar": "العليا"
         },
-        "cityID": "1"
+        "cityID": "1",
+        "status": "active"
       },
       {
         "id": "102",
@@ -276,7 +285,8 @@
           "en": "Al Malaz",
           "ar": "الملز"
         },
-        "cityID": "1"
+        "cityID": "1",
+        "status": "active"
       },
       {
         "id": "103",
@@ -284,7 +294,8 @@
           "en": "Diriyah",
           "ar": "الدرعية"
         },
-        "cityID": "1"
+        "cityID": "1",
+        "status": "active"
       },
       {
         "id": "201",
@@ -292,7 +303,8 @@
           "en": "Al Balad",
           "ar": "البلد"
         },
-        "cityID": "2"
+        "cityID": "2",
+        "status": "active"
       },
       {
         "id": "202",
@@ -300,7 +312,8 @@
           "en": "Al Salamah",
           "ar": "السلامة"
         },
-        "cityID": "2"
+        "cityID": "2",
+        "status": "active"
       },
       {
         "id": "203",
@@ -308,7 +321,8 @@
           "en": "Al Hamra",
           "ar": "الحمرا"
         },
-        "cityID": "2"
+        "cityID": "2",
+        "status": "active"
       },
       {
         "id": "301",
@@ -316,7 +330,8 @@
           "en": "Al Khobar",
           "ar": "الخبر"
         },
-        "cityID": "3"
+        "cityID": "3",
+        "status": "active"
       },
       {
         "id": "302",
@@ -324,7 +339,8 @@
           "en": "Al Rakah",
           "ar": "الراكه"
         },
-        "cityID": "3"
+        "cityID": "3",
+        "status": "active"
       },
       {
         "id": "303",
@@ -332,7 +348,8 @@
           "en": "Al Aziziyah",
           "ar": "العزيزية"
         },
-        "cityID": "3"
+        "cityID": "3",
+        "status": "active"
       },
       {
         "id": "401",
@@ -340,7 +357,8 @@
           "en": "Ajyad",
           "ar": "أجياد"
         },
-        "cityID": "4"
+        "cityID": "4",
+        "status": "active"
       },
       {
         "id": "402",
@@ -348,7 +366,8 @@
           "en": "Al Shubaikah",
           "ar": "الشبيكة"
         },
-        "cityID": "4"
+        "cityID": "4",
+        "status": "active"
       },
       {
         "id": "403",
@@ -356,7 +375,8 @@
           "en": "Al Taneem",
           "ar": "التنعيم"
         },
-        "cityID": "4"
+        "cityID": "4",
+        "status": "active"
       },
       {
         "id": "501",
@@ -364,7 +384,8 @@
           "en": "Soltana Street",
           "ar": "شارع سلطانة"
         },
-        "cityID": "5"
+        "cityID": "5",
+        "status": "active"
       },
       {
         "id": "502",
@@ -372,7 +393,8 @@
           "en": "Quba",
           "ar": "قباء"
         },
-        "cityID": "5"
+        "cityID": "5",
+        "status": "active"
       },
       {
         "id": "503",
@@ -380,7 +402,8 @@
           "en": "Bur Othman",
           "ar": "بر عثمان"
         },
-        "cityID": "5"
+        "cityID": "5",
+        "status": "active"
       }
     ]
   
